@@ -6,7 +6,7 @@ FileVersion[20070407]
 PCB["" 205000 197500]
 
 Grid[2500.0 0 0 1]
-Cursor[205000 67500 0.000000]
+Cursor[0 67500 0.000000]
 PolyArea[3100.006200]
 Thermal[0.500000]
 DRC[1000 1000 1000 1000 1500 1000]
@@ -1426,6 +1426,8 @@ Layer(1 "component")
 	Text[162500 27500 0 100 "transformer" "clearline"]
 	Text[7500 107500 0 100 "feedback" "clearline"]
 	Text[2500 100000 0 100 "optocouple" "clearline"]
+	Text[10000 175000 0 100 "chujoii" "clearline"]
+	Text[10000 187500 0 100 "2013" "clearline"]
 	Polygon("clearpoly")
 	(
 		[0 0] [205000 0] [205000 197500] [0 197500] 
