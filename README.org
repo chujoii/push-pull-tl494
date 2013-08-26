@@ -51,4 +51,6 @@ Author: Roman V. Prikhodchenko <chujoii@gmail.com>
   based on my project motorrka 
   thanks to atom1477 form http://www.elektroda.pl/rtvforum/topic1841543.html
   and http://cxem.net/beginner/beginner65.php
-  and http://www.klausmobile.narod.ru/appnotes/an_04_tl494_pwm_r.htm
+  and http://cxem.net/pitanie/5-110.php (read last message with fix error)
+  and http://pro-radio.ru/power/7736/
+  and http://forum.cxem.net/index.php?showtopic=120700
