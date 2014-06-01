@@ -1,4 +1,4 @@
-schematics 1-push-pull-tl494.sch 
+schematics 4-feedback.sch 
 elements-dir /home/chujoii/project/geda-helper/footprints-geda
 elements-dir /home/chujoii/project/geda-helper/footprints-my
-output-name 1-push-pull-tl494
+output-name 4-feedback
